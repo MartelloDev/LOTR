@@ -1,0 +1,30 @@
+{
+  "name": "lotr-master",
+  "version": "1.0.0",
+  "description": "Bootstrap training pagina LOTR van Martello Koningferander",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartelloDev/LOTR.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "demo",
+    "LOTR"
+  ],
+  "author": "Martello Koningferander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartelloDev/LOTR/issues"
+  },
+  "homepage": "https://github.com/MartelloDev/LOTR#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "jquery-match-height": "^0.7.2",
+    "scss": "^0.2.4"
+  }
+}
